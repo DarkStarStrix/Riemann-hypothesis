@@ -1,8 +1,5 @@
 # code all the formula's in the Riemann hypothesis as functions
 
-import time
-
-import matplotlib.pyplot as plt
 import numpy as np
 
 
